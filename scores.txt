@@ -1,0 +1,6 @@
+user1 580
+user2 560
+user3 512
+user4 500guest 1
+guest 20
+god 50

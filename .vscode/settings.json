@@ -1,0 +1,26 @@
+{
+  "files.associations": {
+    "string.h": "c",
+    "stdlib.h": "c",
+    "queue": "c",
+    "stack": "c",
+    "__config": "cpp",
+    "cmath": "cpp",
+    "stdio.h": "c",
+    "menu.h": "c",
+    "unistd.h": "c",
+    "sdl.h": "c",
+    "sdl_mixer.h": "c",
+    "game.h": "c",
+    "pthread.h": "c",
+    "ncurses.h": "c",
+    "music.h": "c",
+    "maps.h": "c",
+    "stdbool.h": "c",
+    "ctime": "c"
+  },
+  "C_Cpp.errorSquiggles": "enabled",
+  "[c]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  }
+}
